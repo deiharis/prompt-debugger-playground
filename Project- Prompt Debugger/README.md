@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ### 3. Run the Streamlit app:
 
 streamlit run app.py
+
 This should open the app in your browser at http://localhost:8501. If it doesn't, just copy that link into your browser.
 
 ### OpenRouter API Key
