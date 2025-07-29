@@ -9,7 +9,7 @@ Follow these steps to get the app running on your local machine.
 
 Clone this repository:
 
-git clone https://github.com/your-username/prompt-debugger-playground.git
+git clone https://github.com/deiharis/prompt-debugger-playground.git
 cd prompt-debugger-playground
 
 Install the required Python packages:
